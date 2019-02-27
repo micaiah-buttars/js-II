@@ -41,7 +41,7 @@ function assimilate(){
   return "Bob Ross"
 }
 
-var names = ['todd', 'toby', 'tomathy', 'timbo']
+let names = ['todd', 'toby', 'tomathy', 'timbo']
 
 console.log(modifier(assimilate, names))
 
