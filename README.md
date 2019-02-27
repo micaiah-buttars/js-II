@@ -4,7 +4,8 @@
 
 Resolution: 
 Expression: 
-Declaration: 
+Declaration:
+DRY: ' don't repeat yourself '
 
 ## datatypes
 
@@ -16,6 +17,12 @@ number
 object
 array
 function
+
+## patterns
+
+methods: putting a function on an object
+
+callback: passing a function into a function
 
 ## not data types
 
